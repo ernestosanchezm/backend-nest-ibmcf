@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: banking-nest-ebautista
+  - name: banking-nest-ibmcf-tsw
     memory: 256MB
     instances: 1
     buildpacks:
